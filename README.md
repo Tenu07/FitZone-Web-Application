@@ -1,9 +1,3 @@
-Here is a **professional `README.md` file** you can place in the root of your GitHub repository for your **FitZone Fitness Center Web Application** project.
-
-You can copy this directly into a file named **README.md** in your GitHub project.
-
----
-
 # 🏋️ FitZone Fitness Center Web Application
 
 ## 📌 Project Overview
